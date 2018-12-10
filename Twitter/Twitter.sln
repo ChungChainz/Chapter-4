@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter", "Twitter\Twitter.csproj", "{AB51F37A-58B0-45EB-8C87-FAEB2BA269E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB51F37A-58B0-45EB-8C87-FAEB2BA269E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB51F37A-58B0-45EB-8C87-FAEB2BA269E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB51F37A-58B0-45EB-8C87-FAEB2BA269E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB51F37A-58B0-45EB-8C87-FAEB2BA269E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {804E9026-1BBF-45C4-BA81-10EC53346063}
+	EndGlobalSection
+EndGlobal
